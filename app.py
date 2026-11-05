@@ -5,7 +5,7 @@ st.set_page_config(
     page_title="Calculadora de Presupuestos", layout="centered"
 )
 
-st.title(" Calculadora de Presupuestos")
+st.title("Kiosko The Killing")
 st.write(
     "Seleccioná los productos, cantidad y forma de pago para generar tu"
     " presupuesto en PDF."
