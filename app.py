@@ -14,12 +14,12 @@ st.write(
 st.divider()
 
 PRODUCTOS = {
-    "Gaseosa 1.5L": 2800.0,
-    "Alfajor Triple": 1500.0,
-    "Galletitas Paquete": 1200.0,
+    "Pepsi black 1.5L": 2800.0,
+    "Alfajor Trishot": 1500.0,
+    "Galletitas melitas": 1200.0,
     "Agua Mineral 500ml": 1000.0,
-    "Sandwich de Miga": 2200.0,
-    "Chocolatina": 800.0,
+    "Papitas Lays": 2200.0,
+    "Kinder bueno": 2000.0,
 }
 
 st.subheader("1. Selección de Productos")
